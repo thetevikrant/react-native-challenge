@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTTextManager.m \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTTextManager.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/vikrant/react-native-challange/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/vikrant/react-native-challange/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h
