@@ -17,17 +17,20 @@ Start server:
 ```sh
 # Start server
 npm start
+```
 
 
 iOS:
 ```sh
 # Running iOS simulator
 react-native run-ios
+```
 
 Android:
 ```sh
 # Running Android simulator
 react-native run-android
+```
 
 Tests:
 ```sh
